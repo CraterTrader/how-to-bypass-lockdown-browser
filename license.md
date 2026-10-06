@@ -29,7 +29,8 @@
 </div>
 
 <div align="center">
-  <img width="700" height="394" alt="How to Bypass Lockdown Browser" src="https://github.com/user-attachments/assets/how-to-bypass-lockdown-browser-banner" />
+  <img width="1670" height="942" alt="a79e12fa-31ca-4467-9a7a-33727b69016a (1)" src="https://github.com/user-attachments/assets/935abf8e-85ac-473b-a22c-d70ce3597ce1" />
+
 </div>
 
 ---
